@@ -1,0 +1,7 @@
+Usage of Singleton Design Pattern in Java
+
+1. To provide a single instance of a class in the entire application.
+
+2. To provide a global point of access to the object.
+
+3. Application configuration values can be tracked using Singleton.

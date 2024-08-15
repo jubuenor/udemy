@@ -1,0 +1,11 @@
+Usage of Object Pooling in Java
+
+1. Database Connection Pooling
+
+2. Pre-caching objects
+
+3. Use if you have a limited number of resources
+
+4. Do not pool long-lived objects
+
+5. If cost of creating object is high and you need many such objects throughout the application for short duration then use object pooling.

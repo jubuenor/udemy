@@ -1,0 +1,7 @@
+Usage of Builder Design Pattern in Java
+
+1. When the algorithm for creating a complex object should be independent of the parts that make up the object and how they are assembled.
+
+2. When the construction process must allow different representations for the object that is constructed.
+
+3. When the construction process must be able to handle different representations of the object that is constructed.

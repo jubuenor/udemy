@@ -1,0 +1,7 @@
+Usage of Factory method design pattern in Java
+
+1. When a class doesn't know what sub-classes will be required to create
+
+2. When a class wants that its sub-classes specify the objects to be created.
+
+3. When the parent classes choose the creation of objects to its sub-classes.
